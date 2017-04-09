@@ -1,2 +1,3 @@
-# bitcoinbar
-Plugin for BitBar showing your current profit/losses from your Bitcoin portfolio.
+# BitCoinBar
+
+This is a plugin for [BitBar](https://getbitbar.com/), helping you to display your profit/losses from your personal Bitcoin portfolio. It uses https://bitcoinapi.de/ for the current Bitcoin price.
